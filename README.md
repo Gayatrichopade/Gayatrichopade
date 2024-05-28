@@ -51,7 +51,7 @@ In addition to technical proficiency, I possess strong soft skills that compleme
 
 **Talking about Personal Stuffs:**
 
-- 👨‍🏛 I'm currently workink at **General Mills** as a Data Scientist.
+- 👨‍🏛 I'm currently workink at **HCLTech** as a Data Scientist.
 - 💻 Major is big data technology ML/AI and its application.
 - 🌱 Data Scientist **Empowers Growth & Innovation by Turning Insights into Action**.
 - 🤔 My hobbies are **playing chess and food🍕**.
