@@ -1,4 +1,4 @@
-# Gayatrichopade.github.io
+<!--Gayatrichopade.github.io -->
 <!--
 **mrperfectpandit/mrperfectpandit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-   <h1>Hi there, I'm <a href="https://portfolioaman.herokuapp.com/">Gayatri</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <h1>Hi there, I'm <!--<a href="https://portfolioaman.herokuapp.com/">-->Gayatri</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
    <i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i>
 </h5>
   
-<img  align='right' src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e471rew6d20ix9zlnywv68d8a7b4zf622ojzuiij5pw&rid=giphy.gif&ct=g">
+<img  align='right' src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif?cid=ecf05e478hecr3kob7k3b2cpgmm4u3mpw3ufny9g843i8o3j&ep=v1_gifs_search&rid=giphy.gif&ct=g" width = 250 height = 280>
 <br>
 Data scientist @ HCLTECH || CSE'19 | CDAC in Big Data Analytics Jan'21
 <br>
@@ -66,17 +66,18 @@ Most of the projects that I have worked on or working on can be found here. If y
 📊 **My recent programming status:**
 <!--START_SECTION:waka-->
 ```text
-Personality prediction using BERT based uncased model
+BBC Full Text Document Classification
 ```
 ## 🤝Contact me  
-<a target="_blank" href="www.linkedin.com/in/aman-sharma-01b185190/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>  <a target="_blank" href="https://www.instagram.com/gayatri_2104/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>  <a target="_blank" href="mailto:gschopade123@gmail.com"> 
+<a target="_blank" href="http://linkedin.com/in/gayatri-chopade-550703165">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" background-color="white"/>
+<!-- </a>  <a target="_blank" href="https://www.instagram.com/gayatri_2104/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>   -->
+   <a target="_blank" href="mailto:gschopade123@gmail.com"> 
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>  <a target="_blank" href="https://portfolioaman.herokuapp.com/">
+<!-- </a>  <a target="_blank" href="https://portfolioaman.herokuapp.com/">
   <img align="left" alt="Devto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
-</a>  
+</a>   -->
 <hr>
 <br>
 
@@ -108,5 +109,5 @@ Personality prediction using BERT based uncased model
 
 
 
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
+<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="left" width="200" height="auto" />
 <a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
