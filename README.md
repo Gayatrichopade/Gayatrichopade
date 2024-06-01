@@ -55,7 +55,7 @@ In addition to technical proficiency, I possess strong soft skills that compleme
 - 👨‍🏛 I'm currently workink at **HCLTech** as a Data Scientist.
 - 💻 Major is big data technology ML/AI and its application.
 - 🌱 Data Scientist **Empowers Growth & Innovation by Turning Insights into Action**.
-- 🤔 My hobbies are **playing chess and food🍕**.
+- 🤔 My hobbies are **playing carrom and food🍕**.
 - 💼 I am an **obsessive-compulsive disorder**.
 - 💬 If you have any questions, **just ask me**.
 
