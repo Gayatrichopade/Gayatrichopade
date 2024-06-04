@@ -48,7 +48,7 @@ Python, DAX, SQL, Excel, Statistics, Machine Learning, Data Science, Data Analys
 <br>
 In addition to technical proficiency, I possess strong soft skills that complement my technical expertise. I excel in crafting compelling narratives that effectively communicate insights through storytelling. My analytical thinking allows me to approach complex problems from various perspectives, enabling the derivation of meaningful insights. With excellent communication skills, I foster collaboration with cross-functional teams and stakeholders, ensuring the seamless adoption of data-driven solutions throughout the organization.
 
-[Get-Resume](https://drive.google.com/file/d/1PgpnFJM2fjiuj5aSz7EglpcNd1mrOwIh/view?usp=sharing)
+[Get-Resume](https://drive.google.com/file/d/1Hal7BfaSeJRtkQrn34pQIGtSbKmyOdmO/view)
 
 **Talking about Personal Stuffs:**
 
@@ -72,13 +72,13 @@ BBC Full Text Document Classification
 ## 🤝Contact me  
 <a target="_blank" href="http://linkedin.com/in/gayatri-chopade-550703165">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" background-color="white"/>
-<!-- </a>  <a target="_blank" href="https://www.instagram.com/gayatri_2104/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>   -->
+</a>  <a target="_blank" href="https://www.instagram.com/gayatri_2104/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a> 
    <a target="_blank" href="mailto:gschopade123@gmail.com"> 
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-<!-- </a>  <a target="_blank" href="https://portfolioaman.herokuapp.com/">
-  <img align="left" alt="Devto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
-</a>   -->
+ </a>  <a target="_blank" href="(https://www.hackerrank.com/profile/gschopade123)">
+  <img align="left" alt="Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg" />
+</a>
 <hr>
 <br>
 
