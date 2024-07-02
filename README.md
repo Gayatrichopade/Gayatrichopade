@@ -49,6 +49,7 @@ Python, DAX, SQL, Excel, Statistics, Machine Learning, Data Science, Data Analys
 In addition to technical proficiency, I possess strong soft skills that complement my technical expertise. I excel in crafting compelling narratives that effectively communicate insights through storytelling. My analytical thinking allows me to approach complex problems from various perspectives, enabling the derivation of meaningful insights. With excellent communication skills, I foster collaboration with cross-functional teams and stakeholders, ensuring the seamless adoption of data-driven solutions throughout the organization.
 
 [Get-Resume](https://drive.google.com/file/d/1Hal7BfaSeJRtkQrn34pQIGtSbKmyOdmO/view)
+[Get_Certification](https://www.udemy.com/certificate/UC-4ccb4575-16f9-4223-aa52-75cce029ddc2/)
 
 **Talking about Personal Stuffs:**
 
