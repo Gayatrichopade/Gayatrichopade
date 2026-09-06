@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Gayatri Chopade | 💻 Data Scientist | 🛸 HCLTECH <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Gayatri Chopade | 💻 Data Scientist | 🚜 JOHN DEERE |🛸 EX-HCLTECH <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
    
  ## My interest❤️ 
 
@@ -54,7 +54,7 @@ In addition to technical proficiency, I possess strong soft skills that compleme
 
 **Talking about Personal Stuffs:**
 
-- 👨‍🏛 I'm currently workink at **HCLTech** as a Data Scientist.
+- 👨‍🏛 I'm currently workink at **JohnDeere** as a Data Scientist.
 - 💻 Major is big data technology ML/AI and its application.
 - 🌱 Data Scientist **Empowers Growth & Innovation by Turning Insights into Action**.
 - 🤔 My hobbies are **playing carrom and food🍕**.
