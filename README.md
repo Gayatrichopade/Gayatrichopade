@@ -36,9 +36,9 @@ Here are some ideas to get you started:
   
 <img  align='right' src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif?cid=ecf05e478hecr3kob7k3b2cpgmm4u3mpw3ufny9g843i8o3j&ep=v1_gifs_search&rid=giphy.gif&ct=g" width = 250 height = 280>
 <br>
-Data scientist @ HCLTECH || CSE'19 | CDAC in Big Data Analytics Jan'21
+Data scientist @JOHNDEERE ||EX-HCLITE || CSE'19 | CDAC in Big Data Analytics Jan'21
 <br>
-Data driven professional with a 3 YOE in Analytics, Programming, and ML/DS technical project work. I am passionate about delivering valuable insights through analytical functions and data retrieval methods. With a strong foundation in Computer Science Engineering and a focus on Data Science, Machine Learning, and Artificial Intelligence, I possess expertise in Python, DAX, SQL, and Excel. My skills also encompass Statistics, Machine Learning, Data Analysis, Deep Learning, Natural Language Processing, predictive modeling, visualization tools like Power BI and Tableau as well as Clustering and Classification & Regression techniques.
+Data driven professional with a 5 YOE in Analytics, Programming, and ML/DS technical project work. I am passionate about delivering valuable insights through analytical functions and data retrieval methods. With a strong foundation in Computer Science Engineering and a focus on Data Science, Machine Learning, and Artificial Intelligence, I possess expertise in Python, DAX, SQL, and Excel. My skills also encompass Statistics, Machine Learning, Data Analysis, Deep Learning, Natural Language Processing, predictive modeling, visualization tools like Power BI and Tableau as well as Clustering and Classification & Regression techniques.
 Adept at evaluating students, with a proven track record of improving their performance in machine learning and data science.
 <br>
 <br>
